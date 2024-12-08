@@ -1,0 +1,20 @@
+body{
+	background-color: #918F94;
+	font-family: "Outfit", sans-serif;
+	background-image: url('https://t4.ftcdn.net/jpg/06/25/18/79/360_F_625187966_pEfl40h9N79Reqv2E6Zm2PQ0ZBHkyFKu.jpg');
+  	background-repeat: no-repeat;
+  	background-attachment: fixed; 
+  	background-size: 100% 100%;
+}
+
+.container {
+	background-color: rgb(0 0 0 / 0.5);
+	color: #ffffff;
+	margin-top: 20px;
+	padding: 20px;
+	font-family: "Outfit", sans-serif;
+}
+
+h3 {
+	margin-top: 20px;
+}
